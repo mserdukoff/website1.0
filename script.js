@@ -19,7 +19,7 @@ function executeCommand(command) {
         "socials": "<a href='https://twitter.com/vladimirserduko'>X</a> <a href='https://www.duolingo.com/profile/mserdukoff'>duolingo</a>",
         "projects": "<a href='https://github.com/mserdukoff'>my projects on GitHub</a>",
         "email": "<a href='mailto:m.serdukoff@gmail.com'>m.serdukoff@gmail.com</a>",
-        "linkedin": "Connect with me on LinkedIn: <a href='https://www.linkedin.com/in/yourLinkedIn'>yourLinkedIn</a>",
+        "linkedin": "<a href='https://www.linkedin.com/in/matt-serdukoff-775030190/'>my linkedin</a>",
         "skills": "C/C++\nPython\nPandas\nOpenAI API\nNatural Language Toolkit\nNatural Language Processing\nPhotography",
         "photography": "most of my cool pictures are on <a href='https://prairie-draw-185.notion.site/Photography-15c93dc8d8f543e0a8779bb0c3ed372f?pvs=4'>this notion page",
         "help": "Available commands:\nwhoami\nsocial\nprojects\nemail\nlinkedin\nskills\nphotography\nhelp\nclear"
