@@ -16,7 +16,7 @@ function executeCommand(command) {
         `i am a 23 year old student at UMass Lowell pursuing a degree in Computer Science with a concentration in Data Science.\n` + 
         'currently i am interested in natural language processing and data structures such as neural networks.\n'+
         'non professional interests are linguistics and history',
-        "socials": "<a href='https://twitter.com/vladimirserduko'>X</a> <a href='https://www.duolingo.com/profile/mserdukoff'>duolingo</a>",
+        "socials": "<a href='https://twitter.com/mserdukoff'>X</a> <a href='https://www.duolingo.com/profile/mserdukoff'>duolingo</a>",
         "projects": "<a href='https://github.com/mserdukoff/Projects'>link to GitHub repository</a>",
         "email": "<a href='mailto:m.serdukoff@gmail.com'>m.serdukoff@gmail.com</a>",
         "linkedin": "<a href='https://www.linkedin.com/in/matt-serdukoff-775030190/'>my linkedin</a>",
